@@ -71,12 +71,3 @@ There are few companies who have understood this and crafted their interview pro
 2. **Problem Solving:** This round focusses on solving some real life problems unlike plain old DS algo round. This is some sort of a white board round where the interviewer asks some problems related to their product and the candidate needs to explain the design, flow and approach while solving the problem. This is really fun!
 3. **Take home assignment:** In this round the candidate is given a short assignment for take home. The candidate needs to record their screen while working on the assignment. This gives the interviewer the idea about how a candidate makes choices for tech stack, tools, looking for help online etc.
 4. **Negotiaton:** This round focusses on compensation discussion.
-
-
-
-
-For the past few month I've been doing the research after I moved on from Treebo by personally giving interviews and I've curated a list of companies whose interview process amazed me and I believe are the ideal way of interviewing. 
-
-I was honoured to get a chance to change the process at Treebo where we used to call it as **Candidate Driven Interview** process.
-
-This site lists down the companies whose interview process are crafted well for frontend and you would enjoy talking up their interview process and would want to work with them
