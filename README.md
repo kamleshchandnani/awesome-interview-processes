@@ -2,15 +2,16 @@
   🤩 Awesome Interview Process 🤩
 </h1>
 <h3 align="center">List and details of companies who have really amazing interview process</h3>
-<h4 align="center">Time is a valueable asset. Choose a company whose interview process excites you!</h4>
+<h3 align="center">Time is a valueable asset. Choose a company whose interview process excites you!</h3>
+<br/>
 
-## 🤩Awesome Companies List 
+## 🤩 Awesome Companies List 
   - [Treebo](content/01-treebo.md)
   - [Gatsby](content/02-gatsby.md)
   - [Razorpay](content/03-razorpay.md)
   - [Hasura](content/04-hasura.md)
 
-## 🤔Know a company which have amazing interview process? 
+## 🤔 Know a company which have amazing interview process? 
 Send a PR and help other people as well to find great companies to work for 💪
 1. [Setup](#setup) the repo
 2. Navigate to `content/comapanies`
@@ -26,8 +27,8 @@ yarn
 
 yarn develop
 ```
-Your site is now running at `http://localhost:8000`
+Your site will be running at `http://localhost:8000`
 
-## 📝License
+## 📝 License
 Licensed under the [MIT License](LICENSE.md)
 
