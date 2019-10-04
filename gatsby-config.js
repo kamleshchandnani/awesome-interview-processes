@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Awesome Interview Process 🤩`,
     author: `Kamlesh Chandnani`,
-    siteUrl: `awesomeinterviewprocess.tech`,
+    siteUrl: `https://awesomeinterviewprocess.tech`,
     description: `List and details of companies who have really amazing interview process`,
     social: [
       {
