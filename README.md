@@ -1,8 +1,8 @@
-<center>
-  <p style="font-size:30px">🤩 Awesome Interview Process 🤩</p>
-  <p style="font-size:16px">List and details of companies who have really amazing interview process</p>
-  <p style="font-size:20px">Your time is a valueable asset. Choose a company whose interview process excites you!</p>
-</center>
+<h1 align="center">
+  🤩 Awesome Interview Process 🤩
+</h1>
+<h3 align="center">List and details of companies who have really amazing interview process</h3>
+<h4 align="center">Time is a valueable asset. Choose a company whose interview process excites you!</h4>
 
 ## 🤩Awesome Companies List 
   - [Treebo](content/01-treebo.md)
