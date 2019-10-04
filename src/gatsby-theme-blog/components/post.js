@@ -1,4 +1,3 @@
-import React from "react";
 import { Styled, css } from "theme-ui";
 
 import PostFooter from "gatsby-theme-blog/src/components/post-footer";

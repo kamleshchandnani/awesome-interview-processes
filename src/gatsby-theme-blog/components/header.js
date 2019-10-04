@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "gatsby";
 import { css, useColorMode, Styled } from "theme-ui";
 import Switch from "gatsby-theme-blog/src/components/switch";

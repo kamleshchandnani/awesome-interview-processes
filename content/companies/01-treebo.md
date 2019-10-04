@@ -3,7 +3,7 @@ title: Treebo
 excerpt: Know more about Treebo's interview process ➡️
 index: 1
 ---
-## Company Details
+## Company Info
 - **Website:** [treebo.com](https://treebo.com)
 - **Location:** Bangalore, India
 

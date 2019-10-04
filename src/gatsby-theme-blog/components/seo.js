@@ -25,7 +25,8 @@ function SEO({ description, lang, meta, keywords, title }) {
     `
   );
 
-  const metaDescription = description || site.siteMetadata.description;
+  const metaDescription = site.siteMetadata.description;
+  const metaTitle = site.siteMetadata.title;
 
   return (
     <Helmet
@@ -41,7 +42,7 @@ function SEO({ description, lang, meta, keywords, title }) {
         },
         {
           property: `og:title`,
-          content: title
+          content: metaTitle
         },
         {
           property: `og:description`,

@@ -3,7 +3,7 @@ title: Hasura
 excerpt: Know more about Hasura's interview process ➡️
 index: 4
 ---
-## Company Details
+## Company Info
 - **Website:** [hasura.io](https://hasura.io/)
 - **Location:** Bangalore, India
 
