@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Awesome Interview Process 🤩`,
     author: `Kamlesh Chandnani`,
+    siteUrl: `awesomeinterviewprocess.tech`,
     description: `List and details of companies who have really amazing interview process`,
     social: [
       {
@@ -31,6 +32,12 @@ module.exports = {
         theme_color: `#fff`,
         display: `standalone`,
         icon: `content/assets/favicon.png`
+      }
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "G-87Z0WS46Z7"
       }
     }
   ]
