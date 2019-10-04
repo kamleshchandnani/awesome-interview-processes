@@ -12,6 +12,21 @@
 
 ## 🤔Know a company which have amazing interview process? 
 Send a PR and help other people as well to find great companies to work for 💪
+1. [Setup](#setup) the repo
+2. Navigate to `content/comapanies`
+3. Create a file as `index-company_name.md`
+
+## 🛠 Setup
+```bash
+git clone https://github.com/kamleshchandnani/awesome-interview-process.git
+
+cd awesome-interview-process
+
+yarn
+
+yarn develop
+```
+Your site is now running at `http://localhost:8000`
 
 ## 📝License
 Licensed under the [MIT License](LICENSE.md)
