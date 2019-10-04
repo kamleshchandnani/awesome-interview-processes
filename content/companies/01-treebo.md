@@ -2,7 +2,6 @@
 title: Treebo
 excerpt: Know more about Treebo's interview process ➡️
 index: 1
-id: 1
 ---
 ## Company Details
 - **Website:** [treebo.com](https://treebo.com)
