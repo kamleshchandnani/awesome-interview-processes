@@ -27,7 +27,7 @@ function SEO({ description, lang, meta, keywords, title }) {
 
   const metaDescription = site.siteMetadata.description;
   const metaTitle = site.siteMetadata.title;
-
+  console.log({ metaDescription });
   return (
     <Helmet
       htmlAttributes={{
@@ -54,7 +54,7 @@ function SEO({ description, lang, meta, keywords, title }) {
         },
         {
           name: `twitter:card`,
-          content: `summary`
+          content: metaDescription
         },
         {
           name: `twitter:creator`,
@@ -62,7 +62,7 @@ function SEO({ description, lang, meta, keywords, title }) {
         },
         {
           name: `twitter:title`,
-          content: title
+          content: metaTitle
         },
         {
           name: `twitter:description`,
