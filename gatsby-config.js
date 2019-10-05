@@ -28,8 +28,8 @@ module.exports = {
         name: `Awesome Interview Process 🤩`,
         short_name: `🤩`,
         start_url: `/`,
-        background_color: `#fff`,
-        theme_color: `#fff`,
+        background_color: `#f7fafc`,
+        theme_color: `#f7fafc`,
         display: `standalone`,
         icon: `content/assets/favicon.png`
       }

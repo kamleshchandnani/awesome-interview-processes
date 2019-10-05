@@ -3,20 +3,20 @@ import defaultThemeColors from "gatsby-theme-blog/src/gatsby-plugin-theme-ui/col
 
 const colors = {
   background: {
-    dark: "#0f1927",
-    light: "#e7eaf6"
+    dark: "#2d3748",
+    light: "#f7fafc"
   },
   primary: {
-    dark: "#113f67",
-    light: "#a2a8d3"
+    dark: "#38b2ac",
+    light: "#ffffff"
   },
   heading: {
     dark: "",
     light: ""
   },
   text: {
-    dark: "#38598b",
-    light: "#e7eaf6"
+    dark: "#718096",
+    light: "#cbd5e0"
   }
 };
 export default merge(defaultThemeColors, {
