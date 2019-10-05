@@ -1,7 +1,6 @@
 ---
 title: Gatsby
 excerpt: Know more about Gatsby's interview process ➡️
-index: 2
 ---
 ## Company Info
 - **Website:** [gatsbyjs.com](https://www.gatsbyjs.com/)

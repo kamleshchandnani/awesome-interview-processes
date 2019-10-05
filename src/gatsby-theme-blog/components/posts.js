@@ -1,47 +1,25 @@
 import React, { Fragment } from "react";
 import { Link } from "gatsby";
 import { Styled, css } from "theme-ui";
-import { useStaticQuery, graphql } from "gatsby";
 import Layout from "gatsby-theme-blog/src/components/layout";
 import SEO from "gatsby-theme-blog/src/components/seo";
 import Footer from "gatsby-theme-blog/src/components/home-footer";
 
-const PostsQuery = graphql`
-  query PostsQueryShadowed {
-    site {
-      siteMetadata {
-        title
-        social {
-          name
-          url
-        }
-      }
-    }
-    allBlogPost(sort: { fields: [date, title], order: DESC }, limit: 1000) {
-      edges {
-        node {
-          id
-          excerpt
-          slug
-          title
-          ... on MdxBlogPost {
-            fields {
-              index
-            }
-          }
-        }
-      }
-    }
-  }
-`;
 const sortPostsByIndex = (currentPost, nextPost) =>
-  currentPost.node.fields.index - nextPost.node.fields.index;
+  parseInt(
+    currentPost.node.slug
+      .split("-")[0]
+      .split("/")
+      .pop()
+  ) -
+  parseInt(
+    nextPost.node.slug
+      .split("-")[0]
+      .split("/")
+      .pop()
+  );
 
-const Posts = ({ location }) => {
-  const results = useStaticQuery(PostsQuery);
-  const posts = results.allBlogPost.edges;
-  const siteTitle = results.site.siteMetadata.title;
-  const socialLinks = results.site.siteMetadata.social;
+const Posts = ({ location, posts, siteTitle, socialLinks }) => {
   const sortedPosts = posts.sort(sortPostsByIndex);
 
   return (

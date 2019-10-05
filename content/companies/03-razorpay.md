@@ -1,7 +1,6 @@
 ---
 title: Razorpay
 excerpt: Know more about Razorpay's interview process ➡️
-index: 3
 ---
 ## Company Info
 - **Website:** [razorpay.com](https://razorpay.com)
