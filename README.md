@@ -12,6 +12,7 @@
 - [Razorpay](content/03-razorpay.md)
 - [Hasura](content/04-hasura.md)
 - [Nutanix](content/05-nutanix.md)
+- [Gojek Tech](content/06-gojek-tech.md)
 
 ## 🤔 Know a company which have amazing interview process?
 
