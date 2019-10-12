@@ -7,11 +7,11 @@
 
 ## 🤩 Awesome Companies List
 
-- [Treebo](content/01-treebo.md)
-- [Gatsby](content/02-gatsby.md)
-- [Razorpay](content/03-razorpay.md)
-- [Hasura](content/04-hasura.md)
-- [Nutanix](content/05-nutanix.md)
+- [Treebo](content/companies/01-treebo.md)
+- [Gatsby](content/companies/02-gatsby.md)
+- [Razorpay](content/companies/03-razorpay.md)
+- [Hasura](content/companies/04-hasura.md)
+- [Nutanix](content/companies/05-nutanix.md)
 
 ## 🤔 Know a company which have amazing interview process?
 
