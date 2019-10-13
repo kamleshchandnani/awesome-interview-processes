@@ -8,6 +8,11 @@ excerpt: Know more about Nutanix's interview process ➡️
 - **Website:** [nutanix.com](https://nutanix.com)
 - **Location:** Bangalore, India
 
+## Reviewer Info
+- **Name:** Prateek Gogia
+- **Twitter:** [@reeversedev](https://twitter.com/reeversedev)
+- **Process for Role:** Frontend Engineer
+
 ## Interview Process Summary
 
 |                                    |       |

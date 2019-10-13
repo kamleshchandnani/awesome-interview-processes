@@ -6,6 +6,11 @@ excerpt: Know more about Razorpay's interview process ➡️
 - **Website:** [razorpay.com](https://razorpay.com)
 - **Location:** Bangalore, India
 
+## Reviewer Info
+- **Name:** Kamlesh Chandnani
+- **Twitter:** [@_kamlesh_](https://twitter.com/_kamlesh_)
+- **Process for Role:** Staff Engineer Frontend
+
 ## Interview Process Summary
 |                                    |       |
 | :--------------------------------: | :---: |

@@ -6,6 +6,11 @@ excerpt: Know more about Hasura's interview process ➡️
 - **Website:** [hasura.io](https://hasura.io/)
 - **Location:** Bangalore, India
 
+## Reviewer Info
+- **Name:** Kamlesh Chandnani
+- **Twitter:** [@_kamlesh_](https://twitter.com/_kamlesh_)
+- **Process for Role:** Frontend Architect
+
 ## Interview Process Summary
 |                                    |       |
 | :--------------------------------: | :---: |
