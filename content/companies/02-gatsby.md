@@ -6,6 +6,11 @@ excerpt: Know more about Gatsby's interview process ➡️
 - **Website:** [gatsbyjs.com](https://www.gatsbyjs.com/)
 - **Location:** Remote
 
+## Reviewer Info
+- **Name:** Kamlesh Chandnani
+- **Twitter:** [@_kamlesh_](https://twitter.com/_kamlesh_)
+- **Process for Role:** Staff Engineer Frontend
+
 ## Interview Process Summary
 |                                    |       |
 | :--------------------------------: | :---: |
