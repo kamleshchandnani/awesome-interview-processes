@@ -12,7 +12,7 @@
 - [Razorpay](content/companies/03-razorpay.md)
 - [Hasura](content/companies/04-hasura.md)
 - [Nutanix](content/companies/05-nutanix.md)
-- [Bukalapak](content/companies/06-bukalapak.md)
+- [Bukalapak](content/companies/07-bukalapak.md)
 
 ## 🤔 Know a company which have amazing interview process?
 
