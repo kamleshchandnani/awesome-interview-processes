@@ -6,13 +6,18 @@ excerpt: Know more about Gojek Tech's interview process ➡️
 - **Website:** [gojek.io](https://gojek.io/)
 - **Location:** Bangalore, Gurgaon, India
 
+## Reviewer Info
+- **Name:** Aniket Rao
+- **Twitter:** [@aniket_rao](https://twitter.com/aniket_rao)
+- **Process for Role:** Product Engineer
+
 ## Interview Process Summary
-|                                    |              |
-| :--------------------------------: | :-----------:|
-|             **Rounds**             |  ~6/7        |
-|      **Scripted Questions?**       |  No          |
-| **Typical DS and Algo Questions?** |  Sometimes   |
-|          **Live Coding?**          |  Yes         |
+|                                    |           |
+| :--------------------------------: | :-------: |
+|             **Rounds**             |   ~6/7    |
+|      **Scripted Questions?**       |    No     |
+| **Typical DS and Algo Questions?** | Sometimes |
+|          **Live Coding?**          |    Yes    |
 
 ## Rounds Description
 1. **Assignment:** To begin with candidates receive a take home coding assignment, which is a real life problem and are given 2 full days to solve it. Once the candidate submits the assignment, it undergoes a basic code review and upon successful checks, the candidate is then invited to the next round. This is either online or on premise depending upon candidates feasibility.
@@ -26,9 +31,3 @@ excerpt: Know more about Gojek Tech's interview process ➡️
 - **Rounds(approx)** - Total number of rounds. This an approximate number. Can vary depending on what role you're applying for.
 - **Scripted Questions** - Describes if the company asks questions which are kind of direct bookish questions or can be easily found on internet infact on the first result page on google 😛. Example: Write a function to print first 100 fibonnaci numbers, How does event loop works, write a polyfil for X etc.
 - **DS and Algo** - Describes if the company asks DS and algo questions which which are kind of direct bookish questions about data structure and algorithms instead of a real life problem.
-
-
-## Reporter Info
-- **Name:** Aniket Rao
-- **Twitter:** [@aniket_rao](https://twitter.com/aniket_rao)
-- **Role/Level:** Product Engineer
