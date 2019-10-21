@@ -23,7 +23,7 @@ const Posts = ({ location, posts, siteTitle, socialLinks }) => {
   const sortedPosts = posts.sort(sortPostsByIndex);
 
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout location={location} title={siteTitle} socialLinks={socialLinks}>
       <main>
         {sortedPosts.map(({ node }) => {
           const title = node.title || node.slug;
