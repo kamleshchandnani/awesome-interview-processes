@@ -15,12 +15,12 @@
 - [Gojek Tech](content/companies/06-gojek-tech.md)
 - [Bukalapak](content/companies/07-bukalapak.md)
 
-## 🤔 Know a company which have amazing interview process?
+## 🤔 Know a company that has amazing interview process?
 
 Send a PR and help other people as well to find great companies to work for 💪
 
 1. [Setup](#setup) the repo
-2. Navigate to `content/comapanies`
+2. Navigate to `content/companies`
 3. Create a file as `index-company_name.md`
 
 ## 🛠 Setup
