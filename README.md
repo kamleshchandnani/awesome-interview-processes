@@ -13,13 +13,14 @@
 - [Hasura](content/companies/04-hasura.md)
 - [Nutanix](content/companies/05-nutanix.md)
 - [Gojek Tech](content/companies/06-gojek-tech.md)
+- [Bukalapak](content/companies/07-bukalapak.md)
 
-## 🤔 Know a company which have amazing interview process?
+## 🤔 Know a company that has amazing interview process?
 
 Send a PR and help other people as well to find great companies to work for 💪
 
 1. [Setup](#setup) the repo
-2. Navigate to `content/comapanies`
+2. Navigate to `content/companies`
 3. Create a file as `index-company_name.md`
 4. Copy paste markdown template at `src/template.mdx` and follow guidelines provided there in comments.
 

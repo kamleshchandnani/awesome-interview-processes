@@ -1,7 +1,7 @@
 exports.createSchemaCustomization = ({ actions, schema }) => {
   const { createTypes } = actions;
   const typeDefs = `
-    type BlogPost implements Node @nodeInterface {
+    type BlogPost @nodeInterface {
       date: Date @dateformat
     }
     type MdxBlogPost implements Node @infer {

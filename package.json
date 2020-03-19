@@ -9,19 +9,19 @@
     "commit": "git-cz"
   },
   "dependencies": {
-    "gatsby": "^2.15.28",
-    "gatsby-plugin-google-analytics": "^2.1.20",
-    "gatsby-plugin-manifest": "^2.2.20",
-    "gatsby-theme-blog": "^1.0.2",
-    "react": "^16.10.1",
-    "react-dom": "^16.10.1",
-    "typeface-lora": "^0.0.72",
-    "typeface-varela-round": "^0.0.71",
-    "typography": "^0.16.19",
-    "typography-theme-lincoln": "^0.16.19"
+    "gatsby": "2.19.14",
+    "gatsby-plugin-google-analytics": "2.1.35",
+    "gatsby-plugin-manifest": "2.2.41",
+    "gatsby-theme-blog": "1.2.42",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "typeface-lora": "0.0.72",
+    "typeface-varela-round": "0.0.71",
+    "typography": "0.16.19",
+    "typography-theme-lincoln": "0.16.19"
   },
   "devDependencies": {
-    "commitizen": "^4.0.3"
+    "commitizen": "4.0.3"
   },
   "config": {
     "commitizen": {
