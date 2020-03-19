@@ -15,11 +15,11 @@ excerpt:
 ## Company Info
 
 <!--
-Website - Enter company's website.You can copy,paste and edit the line below.
+Website - Enter company's website.You can copy, paste and edit the line below.
 
 [Example.com](https://www.example.com/)
 
-Location - If is was for a Remote or In-House Position Remote
+Location - If the position was for a Remote or In-House role.
 
 -->
 
@@ -59,7 +59,8 @@ Typical DS and Algo Questions? - Describes if the company asks DS and algo quest
 
 Live Coding? - If you had any live coding?
 
-Asked Current CTC? - If the company asked you for your current CTC.
+Asked Current CTC? - If the company asked you about current CTC.
+
 -->
 
 |                                    |     |
