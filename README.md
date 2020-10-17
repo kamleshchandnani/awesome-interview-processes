@@ -1,5 +1,5 @@
 <h1 align="center">
-  🤩 Awesome Interview Process 🤩
+  🤩 Awesome Interview Processes 🤩
 </h1>
 <h3 align="center">List and details of companies who have really amazing interview process</h3>
 <h3 align="center">Time is a valueable asset. Choose a company whose interview process excites you!</h3>
